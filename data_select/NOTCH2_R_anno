@@ -1,0 +1,283 @@
+Homo_sapiens-GCA_018466835.1-2022_07-genes.gff3
+JAGYVI010000005.1 118280026 118469216 - ID=gene:ENSG04835046491;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVI010000005.1 118365082 118438064 - ID=gene:ENSG04835046697;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018466845.1-2022_07-genes.gff3
+JAGYVH010000034.1 114900613 115089796 - ID=gene:ENSG04840039928;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVH010000034.1 115706038 115779021 + ID=gene:ENSG04840039993;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018466855.1-2022_07-genes.gff3
+JAGYVK010000012.1 67889474 68078660 - ID=gene:ENSG04845002234;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVK010000012.1 67974527 68047542 - ID=gene:ENSG04845002296;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018466985.1-2022_07-genes.gff3
+JAGYVJ010000037.1 35928326 36117558 + ID=gene:ENSG04850038033;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVJ010000037.1 35959482 36032485 + ID=gene:ENSG04850038112;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018467005.1-2022_07-genes.gff3
+JAGYVM010000007.1 12640759 12829927 + ID=gene:ENSG04855026440;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVM010000007.1 11951499 12024469 - ID=gene:ENSG04855040534;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018467015.1-2022_07-genes.gff3
+JAGYVL010000029.1 110620979 110810147 - ID=gene:ENSG04860023443;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVL010000029.1 110706020 110779042 - ID=gene:ENSG04860023615;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018467155.1-2022_07-genes.gff3
+JAGYVN010000071.1 10651452 10840651 + ID=gene:ENSG04865013346;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVN010000071.1 9964675 10034597 - ID=gene:ENSG04865013444;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018467165.1-2022_07-genes.gff3
+JAGYVO010000014.1 6617206 6806392 + ID=gene:ENSG04870038431;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVO010000014.1 6648341 6721317 + ID=gene:ENSG04870038589;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469405.1-2022_07-genes.gff3
+JAGYYU010000072.1 67987977 68177249 - ID=gene:ENSG04875028303;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYU010000072.1 68793639 68863599 + ID=gene:ENSG04875028373;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469415.1-2022_07-genes.gff3
+JAGYYT010000012.1 7952645 8141826 + ID=gene:ENSG04880049346;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYT010000060.1 1744683 1902762 - ID=gene:ENSG04880060363;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYT010000012.1 7263408 7336372 - ID=gene:ENSG04880049451;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469425.1-2022_07-genes.gff3
+JAGYYS010000004.1 8228188 8417369 + ID=gene:ENSG04885044908;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYS010000004.1 7538951 7611915 - ID=gene:ENSG04885044976;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469665.1-2022_07-genes.gff3
+JAGYYY010000006.1 67932337 68121570 - ID=gene:ENSG04890018305;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYY010000006.1 68737977 68807942 + ID=gene:ENSG04890018406;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469675.1-2022_07-genes.gff3
+JAGYYV010000004.1 40729996 40919264 + ID=gene:ENSG04895043209;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYV010000004.1 40043596 40113581 - ID=gene:ENSG04895014566;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469685.1-2022_07-genes.gff3
+JAGYYW010000015.1 67864603 68053844 - ID=gene:ENSG04900038040;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYW010000015.1 68676969 68746919 + ID=gene:ENSG04900038122;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469695.1-2022_07-genes.gff3
+JAGYYZ010000015.1 67967963 68157206 - ID=gene:ENSG04905008980;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYZ010000015.1 68773287 68843237 + ID=gene:ENSG04905009057;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469705.1-2022_07-genes.gff3
+JAGYYX010000012.1 67910750 68099945 - ID=gene:ENSG04910045517;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYYX010000012.1 68716369 68786310 + ID=gene:ENSG04910045589;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469865.1-2022_07-genes.gff3
+JAGYZA010000086.1 16358795 16548026 - ID=gene:ENSG04915015266;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYZA010000086.1 16443850 16516876 - ID=gene:ENSG04915015406;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469875.1-2022_07-genes.gff3
+JAHAON010000012.1 68081930 68271127 - ID=gene:ENSG04920016725;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAON010000012.1 68167004 68239996 - ID=gene:ENSG04920016815;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469925.1-2022_07-genes.gff3
+JAHAOO010000002.1 33121406 33310580 - ID=gene:ENSG04925053107;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOO010000002.1 33927394 33997314 + ID=gene:ENSG04925053176;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469935.1-2022_07-genes.gff3
+JAHAOR010000006.1 3430831 3620028 + ID=gene:ENSG04930002696;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOR010000006.1 3461983 3534968 + ID=gene:ENSG04930002775;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469945.1-2022_07-genes.gff3
+JAHAOQ010000070.1 13957105 14146261 - ID=gene:ENSG04935024927;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOQ010000070.1 14042159 14115157 - ID=gene:ENSG04935025183;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469955.1-2022_07-genes.gff3
+JAHAOP010000065.1 13218294 13407416 + ID=gene:ENSG04940046799;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOP010000065.1 12531576 12601531 - ID=gene:ENSG04940046847;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018469965.1-2022_07-genes.gff3
+JAGYZB010000020.1 11288281 11477503 + ID=gene:ENSG04945028805;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYZB010000020.1 10601968 10671933 - ID=gene:ENSG04945006762;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018470425.1-2022_07-genes.gff3
+JAHAOS010000015.1 33098108 33287279 - ID=gene:ENSG04950033823;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOS010000015.1 33183153 33256161 - ID=gene:ENSG04950012762;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018470435.1-2022_07-genes.gff3
+JAHAOW010000124.1 11613746 11802955 - ID=gene:ENSG04955018345;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOW010000124.1 11698812 11771823 - ID=gene:ENSG04955009778;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018470445.1-2022_07-genes.gff3
+JAHAOV010000022.1 11477569 11666733 - ID=gene:ENSG04960039744;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOV010000022.1 12283139 12353083 + ID=gene:ENSG04960039812;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018470455.1-2022_07-genes.gff3
+JAHAOT010000031.1 16451425 16640633 - ID=gene:ENSG04965014261;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOT010000031.1 16536491 16609486 - ID=gene:ENSG04965014502;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018470465.1-2022_07-genes.gff3
+JAHAOU010000154.1 13880099 14069293 - ID=gene:ENSG04970028319;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAOU010000154.1 13965156 14038176 - ID=gene:ENSG04970028439;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471065.1-2022_08-genes.gff3
+JAHAMA010000003.1 16951686 17140877 + ID=gene:ENSG04975044676;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAMA010000003.1 16265510 16335467 - ID=gene:ENSG04975044724;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471075.1-2022_08-genes.gff3
+JAHAMC010000004.1 47643661 47832885 - ID=gene:ENSG04980050311;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAMC010000004.1 47728737 47801738 - ID=gene:ENSG04980022759;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471085.1-2022_08-genes.gff3
+JAHALZ010000031.1 26822384 27011580 + ID=gene:ENSG04985052520;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHALZ010000031.1 26853499 26926536 + ID=gene:ENSG04985052646;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471095.1-2022_08-genes.gff3
+JAHALX010000049.1 3424185 3613434 + ID=gene:ENSG04990026603;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHALX010000049.1 3455321 3528350 + ID=gene:ENSG04990026664;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471105.1-2022_08-genes.gff3
+JAHALY010000007.1 2538413 2727674 + ID=gene:ENSG04995042035;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHALY010000007.1 1852079 1922045 - ID=gene:ENSG04995042085;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471345.1-2022_08-genes.gff3
+JAHAMB010000008.1 3672827 3862035 + ID=gene:ENSG05000023723;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAMB010000008.1 2986439 3056404 - ID=gene:ENSG05000023767;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471515.1-2022_08-genes.gff3
+JAHBCA010000012.1 67880515 68069743 - ID=gene:ENSG05005043571;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCA010000012.1 68686106 68756090 + ID=gene:ENSG05005043620;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471525.1-2022_08-genes.gff3
+JAHAMG010000059.1 3583774 3773001 + ID=gene:ENSG05010038475;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAMG010000059.1 2897407 2967388 - ID=gene:ENSG05010038550;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471535.1-2022_08-genes.gff3
+JAHAMF010000050.1 3241375 3430594 + ID=gene:ENSG05015039442;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAMF010000050.1 2555019 2624993 - ID=gene:ENSG05015039509;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471545.1-2022_08-genes.gff3
+JAHAMD010000035.1 13143261 13332467 - ID=gene:ENSG05020036310;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAMD010000035.1 13228303 13301345 - ID=gene:ENSG05020036380;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018471555.1-2022_08-genes.gff3
+JAHAME010000077.1 32986294 33175469 - ID=gene:ENSG05025026822;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHAME010000077.1 33804899 33874853 + ID=gene:ENSG05025032135;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472565.1-2022_08-genes.gff3
+JAHBBY010000109.1 33213093 33402341 - ID=gene:ENSG05030031796;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBBY010000109.1 34018716 34088696 + ID=gene:ENSG05030031845;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472575.1-2022_08-genes.gff3
+JAHBCD010000070.1 1628685 1817927 + ID=gene:ENSG05035024964;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCD010000070.1 942304 1012287 - ID=gene:ENSG05035052171;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472585.1-2022_08-genes.gff3
+JAHBBZ010000075.1 33021471 33210706 - ID=gene:ENSG05040053917;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBBZ010000075.1 33827052 33897033 + ID=gene:ENSG05040025683;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472595.1-2022_08-genes.gff3
+JAHBCB010000015.1 49970359 50159575 - ID=gene:ENSG05045058065;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCB010000015.1 50775955 50845901 + ID=gene:ENSG05045058114;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472605.1-2022_08-genes.gff3
+JAHBCC010000031.1 33101077 33290312 - ID=gene:ENSG05050052023;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCC010000031.1 33912977 33982968 + ID=gene:ENSG05050052073;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472685.1-2022_08-genes.gff3
+JAHBCE010000074.1 16128604 16317822 - ID=gene:ENSG05055055636;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCE010000074.1 16213673 16286676 - ID=gene:ENSG05055055698;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472695.1-2022_08-genes.gff3
+JAGYVP010000062.1 9456969 9646195 + ID=gene:ENSG05060056470;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVP010000062.1 8764543 8840588 - ID=gene:ENSG05060056519;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472705.1-2022_08-genes.gff3
+JAGYVQ010000053.1 33092421 33281654 - ID=gene:ENSG05065024710;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVQ010000053.1 33177494 33250503 - ID=gene:ENSG05065043325;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472715.1-2022_08-genes.gff3
+JAHBCH010000004.1 118015087 118204293 - ID=gene:ENSG05070036851;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCH010000004.1 118820696 118890662 + ID=gene:ENSG05070036899;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472725.1-2022_08-genes.gff3
+JAHBCF010000053.1 10379897 10569103 + ID=gene:ENSG05075032186;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCF010000053.1 10411040 10484035 + ID=gene:ENSG05075032254;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472765.1-2022_08-genes.gff3
+JAHBCG010000068.1 20998247 21187488 - ID=gene:ENSG05080058690;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHBCG010000068.1 21810646 21880599 + ID=gene:ENSG05080058739;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472825.1-2022_08-genes.gff3
+JAGYVT010000094.1 67951588 68140735 - ID=gene:ENSG05085040007;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVT010000094.1 68036650 68109605 - ID=gene:ENSG05085040069;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472835.1-2022_08-genes.gff3
+JAGYVU010000029.1 16468316 16657467 - ID=gene:ENSG05090039379;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVU010000029.1 16553347 16626354 - ID=gene:ENSG05090047490;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472845.1-2022_08-genes.gff3
+JAGYVS010000002.1 68056274 68245515 - ID=gene:ENSG05095039103;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVS010000002.1 68861940 68931894 + ID=gene:ENSG05095039152;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472855.1-2022_08-genes.gff3
+JAGYVV010000088.1 6358654 6547820 + ID=gene:ENSG05100026823;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVV010000088.1 5672234 5742201 - ID=gene:ENSG05100026867;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018472865.1-2022_08-genes.gff3
+JAGYVR010000007.1 67983866 68173095 - ID=gene:ENSG05105041400;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVR010000007.1 68789471 68859441 + ID=gene:ENSG05105041449;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018473295.1-2022_08-genes.gff3
+JAGYVX010000022.1 11464637 11653817 + ID=gene:ENSG05110031205;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVX010000022.1 11495741 11568769 + ID=gene:ENSG05110031266;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018473305.1-2022_08-genes.gff3
+JAGYVW010000110.1 4667821 4856976 + ID=gene:ENSG05115030027;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVW010000110.1 3981495 4051428 - ID=gene:ENSG05115030077;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018473315.1-2022_08-genes.gff3
+JAGYVY010000101.1 14589726 14778924 + ID=gene:ENSG05120049881;Name=NOTCH2;biotype=protein_coding;description=notch
+JAGYVY010000101.1 14620858 14693878 + ID=gene:ENSG05120049942;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503245.1-2022_07-genes.gff3
+JAHEOQ010000097.1 13937053 14126232 - ID=gene:ENSG05125029871;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOQ010000097.1 14022096 14095116 - ID=gene:ENSG05125029937;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503255.1-2022_07-genes.gff3
+JAHEON010000034.1 12269108 12464391 + ID=gene:ENSG05130019078;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEON010000034.1 12300220 12379352 + ID=gene:ENSG05130019208;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503265.1-2022_07-genes.gff3
+JAHEOM010000047.1 13857714 14046927 + ID=gene:ENSG05135019539;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOM010000047.1 13171401 13241333 - ID=gene:ENSG05135019600;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503275.1-2022_07-genes.gff3
+JAHEOL010000010.1 53911247 54100416 - ID=gene:ENSG05140039125;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOL010000010.1 53996297 54069302 - ID=gene:ENSG05140039215;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503285.1-2022_07-genes.gff3
+JAHEOO010000052.1 2904435 3093664 + ID=gene:ENSG05145027813;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOO010000052.1 2215205 2288180 - ID=gene:ENSG05145027973;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503525.1-2022_07-genes.gff3
+JAHEOP010000040.1 13863716 14052927 - ID=gene:ENSG05150022507;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOP010000040.1 14669160 14739119 + ID=gene:ENSG05150022618;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503575.1-2022_07-genes.gff3
+JAHEOS010000101.1 16546249 16735459 - ID=gene:ENSG05155056898;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOS010000101.1 17351832 17424811 + ID=gene:ENSG05155056964;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018503585.1-2022_07-genes.gff3
+JAHEOR010000010.1 15560916 15750123 + ID=gene:ENSG05160036942;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOR010000010.1 15592064 15665049 + ID=gene:ENSG05160037014;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504045.1-2022_07-genes.gff3
+JAHEOY010000013.1 16470529 16659754 - ID=gene:ENSG05165013867;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOY010000013.1 17276138 17346101 + ID=gene:ENSG05165031158;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504055.1-2022_07-genes.gff3
+JAHEOW010000109.1 5452058 5641286 + ID=gene:ENSG05170055161;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOW010000109.1 4758993 4828955 - ID=gene:ENSG05170055211;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504065.1-2022_07-genes.gff3
+JAHEOT010000034.1 3531321 3720451 + ID=gene:ENSG05175051188;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOT010000034.1 2844615 2914570 - ID=gene:ENSG05175051256;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504075.1-2022_07-genes.gff3
+JAHEOU010000039.1 2324889 2514077 + ID=gene:ENSG05180025795;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOU010000039.1 2356019 2429003 + ID=gene:ENSG05180025989;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504085.1-2022_07-genes.gff3
+JAHEOV010000041.1 13935398 14124629 - ID=gene:ENSG05185056325;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOV010000041.1 14020470 14093479 - ID=gene:ENSG05185056390;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504365.1-2022_07-genes.gff3
+JAHEOZ010000076.1 13937767 14127016 - ID=gene:ENSG05190036320;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOZ010000076.1 14744076 14814048 + ID=gene:ENSG05190036368;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504375.1-2022_07-genes.gff3
+JAHEOX010000010.1 13858947 14048116 - ID=gene:ENSG05195040349;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEOX010000010.1 14664545 14734504 + ID=gene:ENSG05195040508;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504625.1-2022_07-genes.gff3
+JAHEPE010000205.1 13936094 14125243 - ID=gene:ENSG05200026689;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPE010000205.1 14021164 14094117 - ID=gene:ENSG05200026758;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504635.1-2022_07-genes.gff3
+JAHEPD010000104.1 7354965 7544155 + ID=gene:ENSG05205047423;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPD010000104.1 6668589 6738528 - ID=gene:ENSG05205047471;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504645.1-2022_07-genes.gff3
+JAHEPA010000053.1 16263591 16452775 + ID=gene:ENSG05210018402;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPA010000053.1 15577365 15647338 - ID=gene:ENSG05210041386;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504655.1-2022_07-genes.gff3
+JAHEPB010000009.1 4042435 4231649 + ID=gene:ENSG05215053113;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPB010000009.1 4073579 4146575 + ID=gene:ENSG05215053173;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018504665.1-2022_07-genes.gff3
+JAHEPC010000050.1 2405938 2595135 + ID=gene:ENSG05220037175;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPC010000050.1 2437072 2510069 + ID=gene:ENSG05220037240;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018505825.1-2022_07-genes.gff3
+JAHEPF010000007.1 6712171 6901370 + ID=gene:ENSG05225051706;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPF010000007.1 6743284 6816315 + ID=gene:ENSG05225051768;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018505835.1-2022_07-genes.gff3
+JAHEPI010000053.1 13946481 14135733 - ID=gene:ENSG05230033786;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPI010000053.1 14765187 14835134 + ID=gene:ENSG05230049001;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018505845.1-2022_07-genes.gff3
+JAHEPH010000215.1 1388903 1578141 - ID=gene:ENSG05235022675;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPH010000215.1 1473983 1546993 - ID=gene:ENSG05235022796;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018505855.1-2022_07-genes.gff3
+JAHEPK010000098.1 14388508 14577698 - ID=gene:ENSG05240027627;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPK010000098.1 14473552 14546577 - ID=gene:ENSG05240036831;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018505865.1-2022_07-genes.gff3
+JAHEPG010000081.1 6212322 6401504 + ID=gene:ENSG05245039723;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPG010000081.1 6243462 6316441 + ID=gene:ENSG05245039828;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506125.1-2022_07-genes.gff3
+JAHEPJ010000017.1 8643889 8833090 + ID=gene:ENSG05250038213;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPJ010000017.1 7957550 8027519 - ID=gene:ENSG05250038305;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506155.1-2022_07-genes.gff3
+JAHEPM010000018.1 13875745 14065001 - ID=gene:ENSG05255053275;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPM010000018.1 13960872 14033878 - ID=gene:ENSG05255030067;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506165.1-2022_07-genes.gff3
+JAHEPL010000003.1 110168029 110357198 - ID=gene:ENSG05260038726;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPL010000003.1 110253077 110326083 - ID=gene:ENSG05260038788;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506945.1-2022_07-genes.gff3
+JAHEPO010000002.1 67958401 68147639 - ID=gene:ENSG05265017888;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPO010000002.1 68764036 68834010 + ID=gene:ENSG05265015399;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506955.1-2022_07-genes.gff3
+JAHEPQ010000019.1 62449616 62638855 - ID=gene:ENSG05270027691;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPQ010000019.1 63255258 63325225 + ID=gene:ENSG05270027744;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506965.1-2022_07-genes.gff3
+JAHEPN010000023.1 67977880 68167119 - ID=gene:ENSG05275054441;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPN010000023.1 68783512 68856530 + ID=gene:ENSG05275054504;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018506975.1-2022_07-genes.gff3
+JAHEPP010000020.1 16136099 16325312 - ID=gene:ENSG05280027261;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHEPP010000020.1 16941674 17011643 + ID=gene:ENSG05280027335;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018852585.1-2022_07-genes.gff3
+JAHKSF010000042.1 15046313 15235521 - ID=gene:ENSG05300050407;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHKSF010000042.1 15851863 15921806 + ID=gene:ENSG05300050466;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018852595.1-2022_07-genes.gff3
+JAHKSG010000024.1 1808325 1997530 + ID=gene:ENSG05305054783;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHKSG010000024.1 1121995 1191933 - ID=gene:ENSG05305051769;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018852605.1-2022_07-genes.gff3
+JAHKSE010000012.1 537509 726726 + ID=gene:ENSG05310010969;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHKSE010000028.1 101475 171455 + ID=gene:ENSG05310009619;Name=NOTCH2NLR;biotype=protein_coding;description=notch
+Homo_sapiens-GCA_018852615.1-2022_07-genes.gff3
+JAHKSD010000021.1 119198574 119387812 - ID=gene:ENSG05315026385;Name=NOTCH2;biotype=protein_coding;description=notch
+JAHKSD010000021.1 120004135 120074108 + ID=gene:ENSG05315026435;Name=NOTCH2NLR;biotype=protein_coding;description=notch
