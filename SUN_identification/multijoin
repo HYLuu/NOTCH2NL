@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# multijoin - join multiple files
+
+join_rec() {
+	if [ $# -eq 1 ]; then
+		join -j1 -o 1.1,1.2 - "$1"
+	else
+		f=$1; shift
+		join -j1 -o 1.1,1.2 - "$f" | join_rec "$@"
+	fi
+}
+
+if [ $# -le 2 ]; then
+	join -j1 -o 1.1,1.2 "$@"
+else
+	f1=$1; f2=$2; shift 2
+	join -j1 -o 1.1,1.2 "$f1" "$f2" | join_rec "$@"
+fi
