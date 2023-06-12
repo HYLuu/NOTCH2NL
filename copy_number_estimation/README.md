@@ -23,27 +23,46 @@ plots the SUN ratio of each individual. Read SUN fractions of each SUN set in th
 
 ## Bash scripts
 
-### `nucdiff_HPRC.sh`
+### `extract_split_align.sh`
 
 ```
-$ nucdiff_HPRC.sh
+$ bash extract_split_align.sh
 ```
-calls variants of each NOTCH2NL sequence (produced in data selection step) )using `Nucdiff` with GRCh38 NOTCH2 as reference.
+extracts reads aligned to NOTCH2 and NOTCH2NL regions from the CRAM files, splits the reads based on read groups, converts the reads into FASTQ, and aligns them to GRCh38 NOTCH2 using BWA-MEM2.
 
-### `sort_ref.sh`
-
-```
-$ bash sort_ref.sh
-```
-sorts all the .proc files as .sort files. Th sorted files will be used for finding joint SNPs using `multijoin`.
-
-### `multijoin`
+### `merge_call_variants.sh`
 
 ```
-$ bash multijoin [all the .sort files for multijoin]
+$ bash merge_call_variants.sh
 ```
-joins multiple files to find the set of SNPs that shared by all the input files. Standard of joint SNPs could be find in `Nucdiff_gff_process.py`.
+merges the aligned BAM produced by `extract_split_align.sh` and calls variants from the merged BAMs.
+
+### `vcf_isec.sh`
+
+```
+$ bash vcf_isec.sh
+```
+uses `bcftools isec` for intersecting final VCF produced by `merge_call_variants.sh` and SUN sets VCF of NOTCH2/NOTCH2NL.
+
+### `VariantsToTable.sh`
+
+```
+$ bash VariantsToTable.sh
+``` 
+extracts information needed to calculate SUN fractions in every intersection VCF.
+
+### `fil_calculate_ratio.sh`
+
+```
+$ bash fil_calculate_ratio.sh
+```
+goes into each intersection directory, clears multialleic allels only keeping the correct ones using `clear_multialleic.py`, and output calculated SUN ratio.
+
+### `data_to_plot.sh`
+
+```
+$ bash data_to_plot.sh
+```
+extracts information needed for plotting and merge the SNP and INDEL of the same individual. Output of the script is used to make SUN ratio plots.
 
 ## Workflow
-
-
