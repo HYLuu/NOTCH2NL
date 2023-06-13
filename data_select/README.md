@@ -73,4 +73,4 @@ applies `splitFasta.sh` on all <prefix>_ABC.fa files.
 
 ## Workflow
 
-
+[Workflow of data selection step](workflow.png)
