@@ -50,4 +50,6 @@ joins multiple files to find the set of SNPs that shared by all the input files.
 
 ## Workflow
 
+[Workflow of SUN identification step](workflow.png)
 
+![alt text](https://github.com/HYLuu/NOTCH2NL/blob/main/SUN_identification/workflow.png)
