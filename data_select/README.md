@@ -60,7 +60,7 @@ used `bedtools getfasta` and BED files produed from `process_NOTCH2_seq.py` and 
 ### `splitFasta.sh`
 
 ```
-bash splitFasta.sh [file to split]
+$ bash splitFasta.sh [file to split]
 ```
 splits sequences in the input fasta file into files. Each output file contains only one sequence.
 
