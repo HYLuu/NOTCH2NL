@@ -37,7 +37,6 @@ id = []
 # Read the annotations of NOTCH2 and NOTCH2NLR extracted from all the HPRC assemblies
 with open('NOTCH2_R_anno', "r") as myfile:
     for line in myfile.readlines():
-        # anno.append(line.rstrip('.gff3\n').lstrip('homo_sapiens_gca').split(' '))
         anno.append(line.rstrip('.gff3\n').split(' '))
 annotation = pd.DataFrame(anno)
 
