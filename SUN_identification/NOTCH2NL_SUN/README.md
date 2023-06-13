@@ -15,5 +15,7 @@
 ## Suffix
 
 - **_join.sort**: joint variants without mutually excluded. <br />
+
 - **_only.gff**: mutually exclusive SUNs for each NOTCH2NL in GFF format. <br />
+
 - **_transform.vcf**: mutually exclusive SUNs for each NOTCH2NL in VCF format. <br />
