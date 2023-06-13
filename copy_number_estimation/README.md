@@ -65,4 +65,15 @@ $ bash data_to_plot.sh
 ```
 extracts information needed for plotting and merge the SNP and INDEL of the same individual. Output of the script is used to make SUN ratio plots.
 
+### `SUN_ratio_plot_all.sh`
+
+```
+$ bash SUN_ratio_plot_all.sh
+```
+applies `plot_ratio.py` on all the individuals and makes plots.
+
 ## Workflow
+
+[Workflow of copy number estimation step](workflow.png)
+
+![alt text](https://github.com/HYLuu/NOTCH2NL/blob/main/copy_number_estimation/workflow.png)
