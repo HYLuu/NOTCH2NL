@@ -30,7 +30,7 @@ in the same directory, here is hg38 NOTCH2.
 ### `nucdiff_HPRC.sh`
 
 ```
-$ nucdiff_HPRC.sh
+$ bash nucdiff_HPRC.sh
 ```
 calls variants of each NOTCH2NL sequence (produced in data selection step) )using `Nucdiff` with GRCh38 NOTCH2 as reference.
 
