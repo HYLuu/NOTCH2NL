@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Assemblies from the Human Pangenome Reference Consortium (HPRC) were used to retrieve singly-unique nucleotides (SUNs) for each NOTCH2NL allele. These SUNs were used to estimate the NOTCH2NL gene copy number from short-read sequencing data generated for 1000 genome samples included in the pangenome data set. Project details can be found in the [report](https://drive.google.com/file/d/1-UVtCL_IFVTf8fIYiBOZ724giBFTZY3p/view?usp=share_link). The three directories are arranged according to the **Methods** section of the report.
+Assemblies from the Human Pangenome Reference Consortium (HPRC) were used to retrieve singly-unique nucleotides (SUNs) for each NOTCH2NL allele. These SUNs were used to estimate the NOTCH2NL gene copy number from short-read sequencing data generated for 1000 genome samples included in the pangenome data set. Project details can be found in the [report](https://drive.google.com/file/d/1Gp0wIYT7UiwRo4LgWSlA7TJl7qYauYMF/view?usp=sharing). The three directories are arranged according to the **Methods** section of the report.
 
 ## Directories
 
